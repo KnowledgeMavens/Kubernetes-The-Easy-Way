@@ -25,5 +25,5 @@ A pod is a group of one or more containers, with shared storage/network, and a s
 * Helm - Package manager
 
 ### Resources
-Kubernete Slack
-The Illustrated Children's Guide to Kubernetes
+* Kubernete Slack http://slack.k8s.io/
+* The Illustrated Children's Guide to Kubernetes - https://www.youtube.com/watch?v=4ht22ReBjno
